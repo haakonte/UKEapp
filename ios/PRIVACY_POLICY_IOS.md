@@ -60,6 +60,26 @@ Utvikler gjengen i Digital Innovasjon har tilgang og administrerer disse dataene
 
 Brukere blir sletta fra database senest 31. November 2023 etter UKA er ferdig.
 
+## Fullt navn
+
+### Hvor lagres dataene
+
+All data som lagres i appen lagres i skyen,
+nærmere bestemt på en Amazon Cloud Services server i Frankfurt.
+
+### Hva lagres
+
+Email addressen lagres i databasen
+
+### Hvem har tilgang
+
+Utvikler gjengen i Digital Innovasjon har tilgang og administrerer disse dataene.
+
+### Når og hvordan slettes dataene
+
+Brukere blir sletta fra database senest 31. November 2023 etter UKA er ferdig.
+
+
 ## Be om sletting av data
 
 Du kan når som helst sende mail til app@uka.no og be om at all data om deg slettes umiddelbart.
